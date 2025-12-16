@@ -1,0 +1,15 @@
+# Build / Executables
+build/
+dist/
+dist1/
+dist2/
+*.spec
+*.exe
+
+# Runtime
+pid.txt
+config.json
+
+# Python
+__pycache__/
+*.pyc
